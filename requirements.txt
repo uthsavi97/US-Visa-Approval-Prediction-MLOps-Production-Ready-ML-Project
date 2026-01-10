@@ -11,7 +11,7 @@ xgboost
 catboost
 pymongo
 from_root
-evidently==0.7.17
+evidently==0.7.20
 dill
 PyYAML
 neuro_mf
